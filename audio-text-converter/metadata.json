@@ -1,0 +1,6 @@
+{
+  "name": "Audio Text Converter",
+  "description": "An elegant audio to text converter that provides real-time transcription, AI-powered summaries, customizable export formats (PDF, Markdown, TXT), and visual cloud sync tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
